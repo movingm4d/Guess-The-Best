@@ -1,5 +1,5 @@
 # Guess the Best Things 
-A simple Python program that asks the user to guess the "best" animal, film, and food. The program uses loops, conditions, hints, and counters.
+A simple Python program that asks the user to guess the "best" animal, film, and food. The program uses loops, conditions, hints and counters to test my knowledge on beginner basics.
 
 # Features:
 - Reusable function for guessing with:
